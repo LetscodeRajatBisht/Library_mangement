@@ -1,2 +1,2 @@
-# Library_mamgement
-Library_management_Python
+# Library_mangement
+Library_managenent_Python
